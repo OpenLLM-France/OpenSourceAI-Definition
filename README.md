@@ -5,9 +5,7 @@ This proposal aims to enhance the OSI's Open Source AI Definition by providing c
 
 OpenLLM France is not a law firm and does not offer legal services or advice. This work (license draft and related information) is provided on an "as-is" basis, and OpenLLM France disclaims all liability for damages resulting from their use.
 
-```
 Note: as a starting point, take in consideration the Definition of Open Source AI itself; and a checklist to evaluate licenses. We follow the [definition of AI adopted by UNESCO](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449) (https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449):
-```
 
 > An AI system is a machine-based system that can, for a given set of human-defined objectives, make predictions, recommendations, or decisions influencing real or virtual environments. AI systems are designed to operate with varying levels of autonomy.
 > 
@@ -30,4 +28,4 @@ This proposal aims to enhance the OSI's Open Source AI Definition by providing c
 
 You are invited to comment and contribute to this draft, so that we can collectively come up with the most widely shared definition of #OpenSourceAI, so that these technologies can be deployed industrially and safely. Thank you in advance for your contributions.
 
-You contact join us by mail [contact@openllm-france.fr](contact@openllm-france.fr) or on [Discord](https://discord.gg/tZf7BR4dY7).
+You contact join us by mail [contact@openllm-france.fr](mailto:contact@openllm-france.fr) or on [Discord](https://discord.gg/tZf7BR4dY7).
