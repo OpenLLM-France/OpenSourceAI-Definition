@@ -3,7 +3,7 @@ This proposal aims to enhance the OSI's Open Source AI Definition by providing c
 
 ## Disclamer
 
-OpenLLM France is not a law firm and does not offer legal services or advice. This work (license draft and related information) is provided on an "as-is" basis, and OpenLLM France disclaims all liability for damages resulting from their use.
+**OpenLLM France is not a law firm and does not offer legal services or advice. This work (license draft and related information) is provided on an "as-is" basis, and OpenLLM France disclaims all liability for damages resulting from their use.**
 
 Note: as a starting point, take in consideration the Definition of Open Source AI itself; and a checklist to evaluate licenses. We follow the [definition of AI adopted by UNESCO](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449) (https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449):
 
